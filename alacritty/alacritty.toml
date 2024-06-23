@@ -1,0 +1,11 @@
+import = [
+  "~/.config/alacritty/tokyonight_night.toml"
+]
+
+[font]
+# normal = { family = "JetBrainsMono nerd font", style = "Medium"}
+size = 8.0
+
+[font.normal]
+family = "JetBrainsMono nerd font"
+style = "Medium"
